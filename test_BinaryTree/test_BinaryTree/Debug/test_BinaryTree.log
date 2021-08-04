@@ -1,0 +1,3 @@
+﻿  test.c
+D:\学习\数据结构与算法\code\test_BinaryTree\test_BinaryTree\test.c(52): warning C4716: “CreateTreeNode”: 必须返回一个值
+  test_BinaryTree.vcxproj -> D:\学习\数据结构与算法\code\test_BinaryTree\Debug\test_BinaryTree.exe
