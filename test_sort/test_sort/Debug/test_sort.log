@@ -1,0 +1,7 @@
+﻿  sort.c
+D:\学习\数据结构与算法\code\test_sort\test_sort\sort.c(358,25): warning C4013: “malloc”未定义；假设外部返回 int
+D:\学习\数据结构与算法\code\test_sort\test_sort\sort.c(362,7): warning C4013: “exit”未定义；假设外部返回 int
+D:\学习\数据结构与算法\code\test_sort\test_sort\sort.c(365,6): warning C4013: “free”未定义；假设外部返回 int
+  test.c
+  正在生成代码...
+  test_sort.vcxproj -> D:\学习\数据结构与算法\code\test_sort\Debug\test_sort.exe
